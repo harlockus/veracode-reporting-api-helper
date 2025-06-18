@@ -1,8 +1,9 @@
 # Introduction
 This script will allow leveraging interval of 6 months to gather all needed info.  
-It also gives an option to selct the name of one application to show results for that application only.
+It also gives an option to select the name of one application to show results for that application only.
 
 # Output
+The output is in excel.
 The output is `veracode_findings.xlsx`.
 
 # Install requirements
@@ -17,6 +18,8 @@ How to launch it:
 
 `--output-dir "the path to where you want the xlsx file to be published"`
 
+Choose the starting date you want.
+Write the full path to where you would like the excel file to be saved to.
 Follow prompts.
 
 # Note
