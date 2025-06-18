@@ -7,7 +7,7 @@ How to launch it:
 
   python3 Reporting_API_1.py \
   --start-date "YEAR-MM-DD 00:00:00" \
-  --output-dir "the pathe to where you want the xlsx file to be published"
+  --output-dir "the path to where you want the xlsx file to be published"
 
   Follow prompts.
 
