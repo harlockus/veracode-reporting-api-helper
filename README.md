@@ -3,7 +3,7 @@ This script will allow leveraging interval of 6 months to gather all needed info
 It also gives an option to selct the name of one application to show results for that application only.
 
 # Output
-The output is veracode_findings.xlsx.
+The output is `veracode_findings.xlsx`.
 
 # Install requirements
 `pip install -r requirements.txt`
