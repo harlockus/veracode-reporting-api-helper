@@ -21,3 +21,6 @@ Follow prompts.
 
 # Note
   Note: Not an official VERACODE product.
+
+# Reporting API documentation
+Please visit [VERACODE REPORTING REST API](https://docs.veracode.com/r/Reporting_REST_API) for details.
