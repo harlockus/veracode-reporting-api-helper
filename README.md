@@ -7,6 +7,12 @@ The output is in excel.
 The output is `veracode_findings.xlsx`.
 You decide where the output file is saved to by command line in terminal; see [Launch it](#launch-it)
 
+# Install
+`git clone`
+
+# cd
+`cd veracode-reporting-api-helper`
+
 # Install requirements
 `pip install -r requirements.txt`
 
