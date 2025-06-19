@@ -5,9 +5,28 @@ It also gives an option to select the name of one application to show results fo
 # Output
 The output is in excel.
 The output is `veracode_findings.xlsx`.
+You decide where the output file is saved to by command line in terminal; see [Launch it](#launch-it)
 
 # Install requirements
 `pip install -r requirements.txt`
+
+# Authentication
+
+Save Veracode API credentials in `~/.veracode/credentials`
+
+`[default]`
+
+`veracode_api_key_id = <YOUR_API_KEY_ID>`
+
+`veracode_api_key_secret = <YOUR_API_KEY_SECRET>`
+
+# Set your credentials
+Set your credentials as envirenment variables with:
+
+`export VERACODE_API_KEY_ID=<YOUR_API_KEY_ID>`
+
+`export VERACODE_API_KEY_SECRET=<YOUR_API_KEY_SECRET>`
+
 
 # Launch it
 How to launch it:
