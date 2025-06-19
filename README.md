@@ -8,7 +8,7 @@ The output is `veracode_findings.xlsx`.
 You decide where the output file is saved to by command line in terminal; see [Launch it](#launch-it)
 
 # Install
-`git clone`
+`git clone https://github.com/harlockus/veracode-reporting-api-helper.git`
 
 # cd
 `cd veracode-reporting-api-helper`
